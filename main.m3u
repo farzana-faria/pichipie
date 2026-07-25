@@ -1,0 +1,222 @@
+#EXTM3U
+
+
+**********📺 PichiPie | Bangladesh**********
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="📺 PichiPie | Bangladesh",G-Serise
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+http://vods2.aynascope.net/gseriesDrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="📺 PichiPie | Bangladesh",Bangladesh Sangshad
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" tvg-chno="tspost_live" group-title="📺 PichiPie | Bangladesh", T sports - FHD
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" tvg-chno="tspost_live" group-title="📺 PichiPie | Bangladesh", T sports - HD
+https://flussonic.deltainfonet.com/02_Tsports_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="98000" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Channel_1_Bangladesh_restored.png.png/revision/latest?cb=20241029112408&format=original" group-title="📺 PichiPie | Bangladesh",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="97000" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="📺 PichiPie | Bangladesh",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="📺 PichiPie | Bangladesh",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="📺 PichiPie | Bangladesh",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="102000" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-cntent/1739963327549.png" group-title="📺 PichiPie | Bangladesh",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="📺 PichiPie | Bangladesh",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="186000" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="📺 PichiPie | Bangladesh",News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="📺 PichiPie | Bangladesh",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+
+#EXTINF:-1 tvg-id="223000" tvg-name="Islamic TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png" group-title="📺 PichiPie | Bangladesh", Desh TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-id="134000" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="📺 PichiPie | Bangladesh",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="📺 PichiPie | Bangladesh",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="ATN Bangla" tvg-country="BD" tvg-logo="" tvg-chno="29" group-title="📺 PichiPie | Bangladesh",Massranga Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="📺 PichiPie | Bangladesh",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="📺 PichiPie | Bangladesh",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="📺 PichiPie | Bangladesh",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="📺 PichiPie | Bangladesh",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="247000" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="📺 PichiPie | Bangladesh",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/s-tv-bangla.png" group-title="📺 PichiPie | Bangladesh", Channel S
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png" group-title="📺 PichiPie | Bangladesh",Channel S UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png" group-title="📺 PichiPie | Bangladesh",Channel Europe
+https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/cbn-tv.png" group-title="📺 PichiPie | Bangladesh",CBN TV USA
+https://live.cbntvusa.net/hls/cbntv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="📺 PichiPie | Bangladesh",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png" group-title="📺 PichiPie | Bangladesh",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="📺 PichiPie | Bangladesh",JonmoBhumi
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="📺 PichiPie | Bangladesh",Mohona TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="📺 PichiPie | Bangladesh",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="📺 PichiPie | Bangladesh",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Thikana" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="📺 PichiPie | Bangladesh",Thikana
+https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jago News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png" group-title="📺 PichiPie | Bangladesh",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Bangladesh" tvg-id="DesheBideshe" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",DesheBideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png" group-title="📺 PichiPie | Bangladesh",NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/My%20TV.svg.png" group-title="📺 PichiPie | Bangladesh",MY TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="global TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Global%20Television%20Bangladesh.png" group-title="📺 PichiPie | Bangladesh", global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://monirul.bro.bd/assets/images/SOMOY TV1745044149.png" group-title="📺 PichiPie | Bangladesh",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Bangladesh" tvg-id="Ayna TV" tvg-logo="https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="Ekhon TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189283848.png" tvg-country="BD" group-title="📺 PichiPie | Bangladesh" tvg-chno="23",Ekhon TV
+https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Bangladesh" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Bangladesh" tvg-id="Bangla One" tvg-logo="https://news.banglaone.tv/storage/logos/r2PeJQRkKVBJNHuA1uABtMFat3ZFlXm4ojTt5SWI.png",Bangla One
+https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Bangladesh" tvg-id="GTVHD.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",GAZI TV HD
+http://monirul.bro.bd/sm/stream.php?id=gtv&e=.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Bangladesh" tvg-id="JankharTV.in" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg",Jankhar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Bangladesh" tvg-id="timetelevision.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/News_Time_2.jpg",Time Televis HD
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News 24/7" tvg-name="BTV News" tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="📺 PichiPie | Bangladesh",BTV News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg" group-title="📺 PichiPie | Bangladesh",Asian TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="http://monirul.bro.bd/assets/images/ATN BANGLA1745044183.png" group-title="📺 PichiPie | Bangladesh",ATN BANGLA
+https://monirul.bro.bd/sm/stream.php?id=atn_bangla&e=.m3u8
+
+
+
+
+
+**********🌍 PichiPie | Indian Bangla**********
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="IndianBangla",Star Jalsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="IndianBangla",Star Jalsha FHD
+http://103.191.99.248:5550/302/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Jalsha Movies HD
+http://103.191.99.248:5550/303/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="IndianBangla",Zee Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+http://27.124.71.27/Zee_Bangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="IndianBangla",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+
+#EXTINF:-1 tvg-id="fifa+" tvg-name="zee_bangla_cinema+" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnkzXwDf/channels4-profile.jpg" tvg-chno="" group-title="", Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fifa+" tvg-name="zee_bangla_cinema+" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnkzXwDf/channels4-profile.jpg" tvg-chno="" group-title="", Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="SM All TV",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 ,Khushboo Bangla
+http://103.175.73.12:8080/live/375/375_0.m3u8
+
+#EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s" group-title="IndianBangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
+#EXTINF:-1 tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="IndianBangla",Enter10 Bangla HQ
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="আকাশ ৮" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Akash%20Aath.png" group-title="Indian Bangla",আকাশ ৮
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+https://cdn-4.pishow.tv/live/969/master.m3u8
+
+
+
+
