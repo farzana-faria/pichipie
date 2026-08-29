@@ -13,9 +13,6 @@ http://vods2.aynascope.net/gseriesDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF9gp1p5/samaya-ta-bha-ra-la-ga-svg.png" group-title="📺 PichiPie | Bangladesh",Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 
-#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" tvg-chno="tspost_live" group-title="📺 PichiPie | Bangladesh", T sports - FHD
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
-https://flussonic.deltainfonet.com/02_Tsports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://i.postimg.cc/rp4WHTQB/1630662269264.jpg" tvg-chno="tspost_live" group-title="📺 PichiPie | Bangladesh", T sports - HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -265,12 +262,24 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1561
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-hd.png" group-title="📺 PichiPie | Hindi",Colors HD 2
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/280774.m3u8
 
+#EXTINF:-1 group-title="📺 PichiPie | Hindi" tvg-logo="http://picons.cmshulk.com/picons/156002.png",  MTV PLUS HD
+https://iptvlive.ahmed-bd-org.workers.dev/hindi-mtv-plus-hd-1/index.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Hindi" tvg-logo="http://picons.cmshulk.com/picons/1118066.png", MTV HD
+https://iptvlive.ahmed-bd-org.workers.dev/hindi-mtv-hd-1/index.m3u8
+
+#EXTINF:-1 group-title="📺 PichiPie | Hindi" tvg-logo="http://picons.cmshulk.com/picons/280760.png", MTV
+https://iptvlive.ahmed-bd-org.workers.dev/hindi-mtv-1/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="📺 PichiPie | Hindi",StarPlus HD🇮🇳
 http://202.70.146.135:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="📺 PichiPie | Hindi",StarPlus HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/155971.m3u8
 
+#EXTINF:-1 group-title="📺 PichiPie | Hindi" tvg-logo="http://picons.cmshulk.com/picons/3646.png", IN| ZING
+https://iptvlive.ahmed-bd-org.workers.dev/in-zing-1/index.m3u8
 
 #EXTINF:-1 tvg-id="sonyentertainmnt_hd" tvg-name="SONY ENTERTAINMENT TELEVISION HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" tvg-chno="sonyentertainmnt_hd" group-title="📺 PichiPie | Hindi", SONY ENTERTAINMENT TELEVISION HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/156104.m3u8
@@ -432,15 +441,100 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
 
-#EXTINF:-1 tvg-id="hum_masala" tvg-name="Hum Masala" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" tvg-chno="hum_masala" group-title="📺 PichiPie | Pakistani", Hum Masala
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
-
-#EXTINF:-1 tvg-id="hum_sitaray" tvg-name="Hum Sitarey" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" tvg-chno="hum_sitaray" group-title="📺 PichiPie | Pakistani", Hum Sitarey
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281121.png",  GEO TV
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-tv-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://103.176.90.118/picons/logos/GEO-TEZ.jpg",  GEO TEZZ
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-tezz-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281119.png",  GEO NEWS
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-news-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281118.png",  GEO KAHANI
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-kahani-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118539.png",  GEO NEWS (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-news-na-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/165629.png",  GEO SUPER
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-super-2/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/165626.png",  GEO TV HD
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-tv-hd-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118541.png",  GEO TV (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-tv-na-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/104866.png",  GEO TV HD EU
+https://iptvlive.ahmed-bd-org.workers.dev/pk-geo-tv-hd-eu-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/97076.png",  HUM MASALA EU
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-masala-eu-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281126.png",  HUM TV EUROPE HD
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-tv-europe-hd-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281125.png",  HUM TV
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-tv-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281124.png",  HUM SITARAY
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-sitaray-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/104861.png",  HUM EUROPE
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-europe-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/165617.png",  HUM HD
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-hd-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/165616.png",  HUM MASALA
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-masala-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118538.png",  HUM MASALA (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-masala-na-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/104862.png",  HUM MASALA EU
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-masala-eu-2/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/165563.png",  HUM NEWS FHD
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-news-fhd-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/1116508.png",  HUM NEWS HD
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-news-hd-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/165633.png",  HUM PASHTO
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-pashto-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118537.png",  HUM SITARAY (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-sitaray-na-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118536.png",  HUM TV (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-tv-na-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/42469.png",  HUM EUROPE
+https://iptvlive.ahmed-bd-org.workers.dev/pk-hum-europe-2/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281104.png",  ARY ZINDAGI
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-zindagi-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281103.png",  ARY QTV
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-qtv-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118546.png",  ARY QTV (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-qtv-na-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281102.png",  ARY NEWS ASIA
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-news-asia-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118540.png",  ARY NEWS (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-news-na-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281101.png",  ARY MUSIK
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-musik-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://103.176.90.118/picons/logos/aryfamily.png",  ARY FAMILY EU
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-family-eu-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/281099.png",  ARY DIGITAL ASIA
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-digital-asia-1/index.m3u8
+#EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="http://picons.cmshulk.com/picons/118535.png",  ARY DIGITAL (NA)
+https://iptvlive.ahmed-bd-org.workers.dev/pk-ary-digital-na-1/index.m3u8
 
 
 
 ******🌍 PichiPie | International******
+
+
+
+
+#EXTINF:-1  group-title="🌍 PichiPie | International" tvg-logo="http://picons.cmshulk.com/picons/1116488.png",  STAR MOVIES HD
+https://iptvlive.ahmed-bd-org.workers.dev/english-star-movies-hd-1/index.m3u8
+
+#EXTINF:-1  group-title="🌍 PichiPie | International" tvg-logo="http://picons.cmshulk.com/picons/155727.png",  STAR MOVIES HD
+https://iptvlive.ahmed-bd-org.workers.dev/english-star-movies-hd-2/index.m3u8
+
+#EXTINF:-1  group-title="🌍 PichiPie | International" tvg-logo="http://picons.cmshulk.com/picons/282639.png",  STAR MOVIES FHD
+https://iptvlive.ahmed-bd-org.workers.dev/english-star-movies-fhd-1/index.m3u8
+
+#EXTINF:-1  group-title="🌍 PichiPie | International" tvg-logo="http://103.176.90.118/picons/logos/STAR-MOVIES-SELECT-HD.jpg",  STAR SELECT MOV
+https://iptvlive.ahmed-bd-org.workers.dev/english-star-select-mov-1/index.m3u8
+
+#EXTINF:-1  group-title="🌍 PichiPie | International" tvg-logo="http://picons.cmshulk.com/picons/155729.png",  STAR MOVIES SELECT HD
+https://iptvlive.ahmed-bd-org.workers.dev/english-star-movies-select-hd-1/index.m3u8
+
+#EXTINF:-1  group-title="🌍 PichiPie | International" tvg-logo="http://picons.cmshulk.com/picons/1116477.png",  MOVIES NOW FHD
+https://iptvlive.ahmed-bd-org.workers.dev/english-movies-now-fhd-1/index.m3u8
+
+#EXTINF:-1  group-title="🌍 PichiPie | International" tvg-logo="http://picons.cmshulk.com/picons/282651.png",  MOVIES NOW
+https://iptvlive.ahmed-bd-org.workers.dev/english-movies-now-1/index.m3u8
 
 
 
