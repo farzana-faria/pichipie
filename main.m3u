@@ -255,6 +255,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 
+#EXTINF:-1 tvg-id="colors_hd" tvg-logo="http://monirul.bro.bd/assets/images/COLORS HD1745031404.png" group-title="📺 PichiPie | Hindi",COLORS HD
+http://202.70.146.135:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 group-title="📺 PichiPie | Hindi" tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png",Star Plus HD
 https://iptvlive.ahmed-bd-org.workers.dev/star-plus-hd-1/index.m3u8
 
@@ -357,7 +360,14 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 #EXTINF:-1 group-title="📺 PichiPie | Pakistani" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 
+#EXTINF:-1 tvg-id="hum_tv" tvg-name="Hum TV" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" tvg-chno="hum_tv" group-title="📺 PichiPie | Pakistani", Hum TV
+https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
 
+#EXTINF:-1 tvg-id="hum_masala" tvg-name="Hum Masala" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" tvg-chno="hum_masala" group-title="📺 PichiPie | Pakistani", Hum Masala
+https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
+
+#EXTINF:-1 tvg-id="hum_sitaray" tvg-name="Hum Sitarey" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" tvg-chno="hum_sitaray" group-title="📺 PichiPie | Pakistani", Hum Sitarey
+https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
 
 
 
